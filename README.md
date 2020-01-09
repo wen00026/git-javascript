@@ -1,2 +1,2 @@
-# git-javascript
-git javascript assignment
+# Git JavaScript
+# Fang Wen
